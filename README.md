@@ -1,2 +1,2 @@
 # ECE-520-Final-Project
-Pmod_led_&amp;_switches_binary
+This project is a demonstration of how to use a Pmod LED (8) and a Pmod Switches (4) to show a binary counter.
